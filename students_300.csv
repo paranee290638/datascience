@@ -1,0 +1,6 @@
+Student_ID,Name,Gender,Class_Room,Travel_Method,Math_Score,Science_Score,Study_Hours,Absence_Days,Club
+S001,Student001,Male,Room_A,Bus,62,66,1.2,5,Sports
+S002,Student002,Female,Room_B,Car,64,68,1.4,4,Music
+S003,Student003,Male,Room_C,Walk,66,70,1.6,3,Art
+S004,Student004,Female,Room_D,Bicycle,68,72,1.8,2,Science
+S005,Student005,Male,Room_E,Van,70,74,2.0,1,Drama
